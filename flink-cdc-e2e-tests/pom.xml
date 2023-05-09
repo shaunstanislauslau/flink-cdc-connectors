@@ -31,7 +31,7 @@ under the License.
 
     <properties>
         <flink-1.13>1.13.3</flink-1.13>
-        <mysql.driver.version>8.0.27</mysql.driver.version>
+        <mysql.driver.version>8.0.28</mysql.driver.version>
     </properties>
 
     <dependencies>
